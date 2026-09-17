@@ -1,0 +1,5 @@
+Flask
+requests
+protobuf>=4.21.0
+pycryptodome
+urllib3
